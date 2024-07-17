@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "Which country won the FIFA world cup in 1970",
+        question: "Which country won the FIFA world cup in 1970 ?",
         a: "Morocco",
         b: "Portugal",
         c: "U.S.A",
@@ -8,7 +8,7 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "Which country won the FIFA world cup in 1938",
+        question: "Which country won the FIFA world cup in 1938 ?",
         a: "England",
         b: "Italy",
         c: "Uruguay",
@@ -16,7 +16,7 @@ const quizData = [
         correct: "b",
     },
     {
-        question: "Which country won the FIFA world cup in 2018",
+        question: "Which country won the FIFA world cup in 2018 ?",
         a: "France",
         b: "Netherlands",
         c: "Ireland",
@@ -24,7 +24,7 @@ const quizData = [
         correct: "a",
     },
     {
-        question: "Which country won the FIFA world cup in 2010",
+        question: "Which country won the FIFA world cup in 2010 ?",
         a: "Belgium",
         b: "Spain",
         c: "Croatia",
